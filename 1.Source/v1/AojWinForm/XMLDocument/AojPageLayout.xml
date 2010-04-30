@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+关于纸张的像素和实际大小之间转换的说明:
+
+A4纸的尺寸是210mm*297mm,也就是21.0cm*29.7cm,而1英寸=2.54cm,当分辨率为72像素/英寸时,我们将其换算成像素/厘米就是28.3,
+现在,我们将其转换为制作图片时的像素就是(21*28.3)*(29.7*28.3),即:595*842(单位为像素);
+同样的道理,我们可以得到:
+当分辨率为300像素/英寸时,A4大小是2479*3508;（单位为像素）
+当分辨率为120像素/英寸时,A4大小为1487*210.（单位为像素）
+所以如果你要将做的图片打印出来的话,最好先进行换算,不然很可能会降低图片质量的!一般情况下,如果是印刷品,最好用300像素/英寸,如果是打印机或者喷绘,可以选择72像素/英寸的分辨率.
+
+A0=1189*841 
+A1=841*594 
+A2=594*420 
+A3=420*297 
+A4规格:210*297 
+单位是毫米 
+-->
+<!--下面的size请参照上面的说明进行填充,单位是:像素.例如:宽 * 高 -->
+<AojPageLayout>
+  <AojPage>
+    <LauoutName>A4</LauoutName>
+    <LauoutSize>595*842</LauoutSize>
+  </AojPage>
+  <AojPage>
+    <LauoutName>A3</LauoutName>
+    <LauoutSize>1189*842</LauoutSize>
+  </AojPage>
+  <AojPage>
+    <LauoutName>A2</LauoutName>
+    <LauoutSize>1682*1189</LauoutSize>
+  </AojPage>
+  <AojPage>
+    <LauoutName>A1</LauoutName>
+    <LauoutSize>2381*1682</LauoutSize>
+  </AojPage>
+  <AojPage>
+    <LauoutName>A0</LauoutName>
+    <LauoutSize>3366*2381</LauoutSize>
+  </AojPage>
+</AojPageLayout>

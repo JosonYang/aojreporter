@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AojPaper Width="595" Height="842" PaperSizeName="A4" PageStyle="0" GridStyleFlag="True" DrawByGridStyle="True" DistanceAboutGridStyle="10">
+  <Label Id="Label1" PositionX="120" PositionY="30" Width="270" Height="20" Alignment="NearCenter">
+    <Text FamilyName="SimSun-PUA" FontStyle="Bold, Underline, Strikeout" FontSize="15.75" Color="#0080FF">sdfasdfasdfadsfasd</Text>
+  </Label>
+  <Image Id="Image1" PositionX="140" PositionY="90" Width="300" Height="110">
+    <Text Src="E:\Program Files\WorkIIS\AojReport\AojWinForm\Images\Read Me.ico" />
+  </Image>
+  <Table Id="Table1" PositionX="100" PositionY="280" Width="400" Height="180">
+    <Column Id="w1" Width="200" />
+    <Column Id="w2" Width="200" />
+    <Row Id="h1" Height="90">
+      <Cell Id="w1h1">
+        <Text FamilyName="宋体" FontStyle="Regular" FontSize="12" Color="Black" Alignment="CenterCenter" />
+      </Cell>
+      <Cell Id="w2h1">
+        <Text FamilyName="宋体" FontStyle="Regular" FontSize="12" Color="Black" Alignment="CenterCenter" />
+      </Cell>
+    </Row>
+    <Row Id="h2" Height="90">
+      <Cell Id="w1h2">
+        <Text FamilyName="宋体" FontStyle="Regular" FontSize="12" Color="Black" Alignment="CenterCenter" />
+      </Cell>
+      <Cell Id="w2h2">
+        <Text FamilyName="宋体" FontStyle="Regular" FontSize="12" Color="Black" Alignment="CenterCenter" />
+      </Cell>
+    </Row>
+  </Table>
+</AojPaper>
