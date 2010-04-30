@@ -1,0 +1,28 @@
+E:\Program Files\WorkIIS\AojReport\AojWinForm\obj\Debug\ResolveAssemblyReference.cache
+E:\Program Files\WorkIIS\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.Properties.Resources.resources
+E:\Program Files\WorkIIS\AojReport\AojWinForm\obj\Debug\AojWinForm.csproj.GenerateResource.Cache
+E:\Program Files\WorkIIS\AojReport\AojWinForm\bin\Debug\AojWinForm.exe
+E:\Program Files\WorkIIS\AojReport\AojWinForm\bin\Debug\AojWinForm.pdb
+E:\Program Files\WorkIIS\AojReport\AojWinForm\obj\Debug\AojWinForm.exe
+E:\Program Files\WorkIIS\AojReport\AojWinForm\obj\Debug\AojWinForm.pdb
+E:\Program Files\WorkIIS\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.MainForm.resources
+E:\Program Files\WorkIIS\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.NewWorkSpace.resources
+E:\Program Files\WorkIIS\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.ProgramStarting.resources
+E:\Program Files\WorkIIS\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.ObjectProperties.AojLabelProperties.resources
+E:\Program Files\WorkIIS\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.DrawWorkSpace.resources
+E:\Program Files\WorkIIS\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.ObjectProperties.AojImageProperties.resources
+E:\Program Files\WorkIIS\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.ObjectProperties.AojTableProperties.resources
+E:\毕业设计\Source\Src\AojReport\AojWinForm\bin\Debug\AojWinForm.exe
+E:\毕业设计\Source\Src\AojReport\AojWinForm\bin\Debug\AojWinForm.pdb
+E:\毕业设计\Source\Src\AojReport\AojWinForm\obj\Debug\ResolveAssemblyReference.cache
+E:\毕业设计\Source\Src\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.DrawWorkSpace.resources
+E:\毕业设计\Source\Src\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.MainForm.resources
+E:\毕业设计\Source\Src\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.NewWorkSpace.resources
+E:\毕业设计\Source\Src\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.ObjectProperties.AojImageProperties.resources
+E:\毕业设计\Source\Src\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.ObjectProperties.AojLabelProperties.resources
+E:\毕业设计\Source\Src\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.ObjectProperties.AojTableProperties.resources
+E:\毕业设计\Source\Src\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.ProgramStarting.resources
+E:\毕业设计\Source\Src\AojReport\AojWinForm\obj\Debug\AojReport.AojWinForm.Properties.Resources.resources
+E:\毕业设计\Source\Src\AojReport\AojWinForm\obj\Debug\AojWinForm.csproj.GenerateResource.Cache
+E:\毕业设计\Source\Src\AojReport\AojWinForm\obj\Debug\AojWinForm.exe
+E:\毕业设计\Source\Src\AojReport\AojWinForm\obj\Debug\AojWinForm.pdb
