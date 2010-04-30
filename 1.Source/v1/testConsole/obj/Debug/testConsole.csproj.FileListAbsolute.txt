@@ -1,0 +1,17 @@
+E:\GraduteDesignWorkSpace\Src\AojReport\testConsole\obj\Debug\ResolveAssemblyReference.cache
+E:\GraduteDesignWorkSpace\Src\AojReport\testConsole\bin\Debug\testConsole.exe
+E:\GraduteDesignWorkSpace\Src\AojReport\testConsole\bin\Debug\testConsole.pdb
+E:\GraduteDesignWorkSpace\Src\AojReport\testConsole\obj\Debug\testConsole.exe
+E:\GraduteDesignWorkSpace\Src\AojReport\testConsole\obj\Debug\testConsole.pdb
+E:\GraduteDesignWorkSpace\Src\AojReport\testConsole\bin\Debug\AojReport.AojPrintEngine.dll
+E:\GraduteDesignWorkSpace\Src\AojReport\testConsole\bin\Debug\AojReport.AojPrintEngine.pdb
+E:\GraduteDesignWorkSpace\Src\AojReport\testConsole\bin\Debug\AojReport.AojPrintEngine.xml
+E:\GraduteDesignWorkSpace\Src\lib\testConsole.exe
+E:\GraduteDesignWorkSpace\Src\lib\testConsole.pdb
+E:\毕业设计\Source\Src\AojReport\testConsole\obj\Debug\testConsole.exe
+E:\毕业设计\Source\Src\AojReport\testConsole\obj\Debug\testConsole.pdb
+E:\毕业设计\Source\Src\lib\testConsole.exe
+E:\毕业设计\Source\Src\lib\testConsole.pdb
+E:\毕业设计\Source\Src\AojReport\testConsole\obj\Debug\ResolveAssemblyReference.cache
+E:\论文编写\毕业设计-通用报表设计的软件与开发\Source\Src\AojReport\testConsole\obj\Debug\testConsole.exe
+E:\论文编写\毕业设计-通用报表设计的软件与开发\Source\Src\AojReport\testConsole\obj\Debug\testConsole.pdb
